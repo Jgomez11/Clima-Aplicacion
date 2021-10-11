@@ -1,0 +1,11 @@
+{
+  "name": "clima-aplicacion",
+  "version": "1.0.0",
+  "description": "aplicacion que muestra clima por ciudades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
