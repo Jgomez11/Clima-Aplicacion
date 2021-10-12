@@ -1,3 +1,3 @@
 #Informacion
 
-Esta aplicacion...
+Esta aplicacion se ejecuta mediante consola.
